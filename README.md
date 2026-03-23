@@ -1,4 +1,5 @@
-![Financial Sentinel Dashboard](./screenshot.png)
+# 🛡️ Financial Sentinel
+![Project Screenshot](./screenshot.png)
 
 
 # 🛡️ Financial Sentinel: AI-Powered Fraud Detection
