@@ -1,3 +1,6 @@
+![Financial Sentinel Dashboard](./screenshot.png)
+
+
 # 🛡️ Financial Sentinel: AI-Powered Fraud Detection
 A Full-Stack Security Dashboard that uses Local LLMs to analyze transaction risk in real-time.
 
